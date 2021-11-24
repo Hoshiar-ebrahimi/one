@@ -1,0 +1,43 @@
+table,
+td,
+th {
+  border: 1px solid red;
+  border-radius: 12px;
+}
+table {
+  background-color: aqua;
+  border-spacing: 30px;
+  margin: auto;
+}
+
+td,
+th {
+  padding: 20px;
+}
+li {
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+  color: black;
+  target: blank;
+}
+input {
+  border-radius: 6px;
+  height: 20px;
+}
+
+th:hover {
+  background-color: darkkhaki;
+}
+td:hover {
+  background-color: darkkhaki;
+}
+#div {
+  width: 960px;
+  height: 100px;
+  background-color: darkmagenta;
+}
+body {
+  margin: auto;
+}
